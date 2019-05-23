@@ -1,0 +1,14 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifyreacthandson-master-20190523065247-authRole",
+            "UnauthRoleArn": "arn:aws:iam::201992218998:role/amplifyreacthandson-master-20190523065247-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::201992218998:role/amplifyreacthandson-master-20190523065247-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "amplifyreacthandson-master-20190523065247-deployment",
+            "UnauthRoleName": "amplifyreacthandson-master-20190523065247-unauthRole",
+            "StackName": "amplifyreacthandson-master-20190523065247",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:201992218998:stack/amplifyreacthandson-master-20190523065247/601dc0f0-7d27-11e9-999b-0644e4d921a4"
+        }
+    }
+}
